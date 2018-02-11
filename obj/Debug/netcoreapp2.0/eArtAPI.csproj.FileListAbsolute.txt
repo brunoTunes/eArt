@@ -1,0 +1,10 @@
+f:\Repository\eArt\eArtAPI\bin\Debug\netcoreapp2.0\eArtAPI.deps.json
+f:\Repository\eArt\eArtAPI\bin\Debug\netcoreapp2.0\eArtAPI.runtimeconfig.json
+f:\Repository\eArt\eArtAPI\bin\Debug\netcoreapp2.0\eArtAPI.runtimeconfig.dev.json
+f:\Repository\eArt\eArtAPI\bin\Debug\netcoreapp2.0\eArtAPI.dll
+f:\Repository\eArt\eArtAPI\bin\Debug\netcoreapp2.0\eArtAPI.pdb
+f:\Repository\eArt\eArtAPI\obj\Debug\netcoreapp2.0\eArtAPI.csproj.CoreCompileInputs.cache
+f:\Repository\eArt\eArtAPI\obj\Debug\netcoreapp2.0\eArtAPI.AssemblyInfoInputs.cache
+f:\Repository\eArt\eArtAPI\obj\Debug\netcoreapp2.0\eArtAPI.AssemblyInfo.cs
+f:\Repository\eArt\eArtAPI\obj\Debug\netcoreapp2.0\eArtAPI.dll
+f:\Repository\eArt\eArtAPI\obj\Debug\netcoreapp2.0\eArtAPI.pdb
